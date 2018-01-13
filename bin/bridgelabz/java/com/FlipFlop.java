@@ -10,6 +10,6 @@ public class FlipFlop
         int percentHeads;
         int percentTails;
          
-        
+      hgxcfsm,yrfv  
 	
 }
